@@ -194,4 +194,9 @@ var locations = [
         LatLng: [43.079898, -79.064325],
         stay: 'Summer 2013'
     },
+    {
+        name: 'PaaMuul, Mexico',
+        LatLng: [20.527234, -87.199300],
+        stay: 'Startup Island Ignite 2019'
+    }
 ]
